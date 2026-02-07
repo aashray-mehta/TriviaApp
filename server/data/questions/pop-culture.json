@@ -1,0 +1,143 @@
+[
+    {
+      "id": "pop-001",
+      "category": "Movies",
+      "text": "Which actor voiced both Darth Vader (voice) and Mufasa in The Lion King?",
+      "options": ["James Earl Jones", "Morgan Freeman", "Samuel L. Jackson", "Laurence Fishburne"],
+      "correctIndex": 0
+    },
+    {
+      "id": "pop-002",
+      "category": "Music",
+      "text": "Which album won Album of the Year at the 2017 Grammys?",
+      "options": ["25", "Lemonade", "1989", "A Moon Shaped Pool"],
+      "correctIndex": 0
+    },
+    {
+      "id": "pop-003",
+      "category": "Television",
+      "text": "What is the name of the fictional continent where most of Game of Thrones takes place?",
+      "options": ["Essos", "Westeros", "Valyria", "Dorne"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-004",
+      "category": "Movies",
+      "text": "Which 2014 film popularized the quote, \"I am Groot\"?",
+      "options": ["Avatar", "Guardians of the Galaxy", "Interstellar", "The Avengers"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-005",
+      "category": "Music",
+      "text": "Which artist released the visual album Lemonade?",
+      "options": ["Rihanna", "Solange", "Beyoncé", "Alicia Keys"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-006",
+      "category": "Television",
+      "text": "What is the name of the coffee shop frequently visited in Friends?",
+      "options": ["Central Brew", "Coffee Spot", "Central Perk", "Daily Grind"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-007",
+      "category": "Movies",
+      "text": "Which actor played the Joker in The Dark Knight (2008)?",
+      "options": ["Jared Leto", "Joaquin Phoenix", "Jack Nicholson", "Heath Ledger"],
+      "correctIndex": 3
+    },
+    {
+      "id": "pop-008",
+      "category": "Music",
+      "text": "Which band released the album Random Access Memories?",
+      "options": ["Radiohead", "Daft Punk", "Coldplay", "The Killers"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-009",
+      "category": "Television",
+      "text": "Which TV series features characters named Eleven, Mike, and Dustin?",
+      "options": ["Dark", "The Umbrella Academy", "Stranger Things", "The OA"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-010",
+      "category": "Movies",
+      "text": "Which movie won the first-ever Oscar for Best Animated Feature?",
+      "options": ["Toy Story", "Finding Nemo", "Shrek", "The Incredibles"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-011",
+      "category": "Music",
+      "text": "Which singer is known as the 'Queen of Pop'?",
+      "options": ["Britney Spears", "Madonna", "Lady Gaga", "Janet Jackson"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-012",
+      "category": "Television",
+      "text": "In The Office (US), what is the name of the company where the characters work?",
+      "options": ["Dunder Mifflin", "Paper Plus", "Scranton Paper", "Wernham Hogg"],
+      "correctIndex": 0
+    },
+    {
+      "id": "pop-013",
+      "category": "Movies",
+      "text": "Which director is known for films like Pulp Fiction and Kill Bill?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Guy Ritchie", "Christopher Nolan"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-014",
+      "category": "Music",
+      "text": "Which song by Adele features the lyrics 'Hello from the other side'?",
+      "options": ["Someone Like You", "Rolling in the Deep", "Hello", "Set Fire to the Rain"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-015",
+      "category": "Television",
+      "text": "Which reality competition show features a 'Rose Ceremony'?",
+      "options": ["Survivor", "Love Island", "The Bachelor", "Big Brother"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-016",
+      "category": "Movies",
+      "text": "Which actress starred as Katniss Everdeen in The Hunger Games?",
+      "options": ["Emma Stone", "Jennifer Lawrence", "Shailene Woodley", "Scarlett Johansson"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-017",
+      "category": "Music",
+      "text": "Which hip-hop artist released the album To Pimp a Butterfly?",
+      "options": ["J. Cole", "Drake", "Kendrick Lamar", "Childish Gambino"],
+      "correctIndex": 2
+    },
+    {
+      "id": "pop-018",
+      "category": "Television",
+      "text": "What is the name of the fictional ad agency in Mad Men?",
+      "options": ["Sterling Cooper", "Don & Partners", "Madison Creative", "Campbell Pryce"],
+      "correctIndex": 0
+    },
+    {
+      "id": "pop-019",
+      "category": "Movies",
+      "text": "Which Marvel character is also known as the 'Merc with a Mouth'?",
+      "options": ["Spider-Man", "Deadpool", "Ant-Man", "Star-Lord"],
+      "correctIndex": 1
+    },
+    {
+      "id": "pop-020",
+      "category": "Music",
+      "text": "Which band performed the theme song for the TV show Friends?",
+      "options": ["Barenaked Ladies", "R.E.M.", "The Rembrandts", "Third Eye Blind"],
+      "correctIndex": 2
+    }
+  ]
+  

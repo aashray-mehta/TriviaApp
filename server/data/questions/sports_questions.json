@@ -1,0 +1,242 @@
+[
+  {
+    "id": "sports-001",
+    "category": "Sports",
+    "text": "Which country won the FIFA World Cup in 2018?",
+    "options": [
+      "Brazil",
+      "Germany",
+      "France",
+      "Argentina"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-002",
+    "category": "Sports",
+    "text": "How long is a marathon?",
+    "options": [
+      "26.2 miles",
+      "20 miles",
+      "13.1 miles",
+      "30 miles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sports-003",
+    "category": "Sports",
+    "text": "In tennis, what is a score of zero called?",
+    "options": [
+      "Zero",
+      "Nil",
+      "Love",
+      "Naught"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-004",
+    "category": "Sports",
+    "text": "Which sport uses a shuttlecock?",
+    "options": [
+      "Table Tennis",
+      "Badminton",
+      "Squash",
+      "Tennis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-005",
+    "category": "Sports",
+    "text": "How many players are on a standard baseball team?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-006",
+    "category": "Sports",
+    "text": "Who holds the record for the most Olympic gold medals?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Michael Phelps",
+      "Mark Spitz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-007",
+    "category": "Sports",
+    "text": "What is the maximum break in Snooker?",
+    "options": [
+      "147",
+      "155",
+      "100",
+      "180"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sports-008",
+    "category": "Sports",
+    "text": "In which sport is the Super Bowl played?",
+    "options": [
+      "Baseball",
+      "Basketball",
+      "American Football",
+      "Hockey"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-009",
+    "category": "Sports",
+    "text": "Which NBA team is known as the 'Lakers'?",
+    "options": [
+      "Chicago",
+      "New York",
+      "Los Angeles",
+      "Miami"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-010",
+    "category": "Sports",
+    "text": "What does MVP stand for?",
+    "options": [
+      "Most Valuable Player",
+      "Most Versatile Player",
+      "Maximum Velocity Power",
+      "Main Victory Point"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sports-011",
+    "category": "Sports",
+    "text": "Which golf tournament is played at Augusta National?",
+    "options": [
+      "The Open",
+      "US Open",
+      "PGA Championship",
+      "The Masters"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sports-012",
+    "category": "Sports",
+    "text": "How many minutes is a rugby union match?",
+    "options": [
+      "60",
+      "80",
+      "90",
+      "70"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-013",
+    "category": "Sports",
+    "text": "Which city hosted the 2012 Summer Olympics?",
+    "options": [
+      "Beijing",
+      "London",
+      "Rio de Janeiro",
+      "Athens"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-014",
+    "category": "Sports",
+    "text": "In bowling, what is it called when you knock down all pins in one roll?",
+    "options": [
+      "Spare",
+      "Strike",
+      "Turkey",
+      "Split"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-015",
+    "category": "Sports",
+    "text": "Which boxer was known as 'The Greatest'?",
+    "options": [
+      "Mike Tyson",
+      "Muhammad Ali",
+      "Joe Frazier",
+      "George Foreman"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-016",
+    "category": "Sports",
+    "text": "How many periods are in an ice hockey game?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-017",
+    "category": "Sports",
+    "text": "Which country is famous for the All Blacks rugby team?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "New Zealand",
+      "England"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sports-018",
+    "category": "Sports",
+    "text": "What is the diameter of a basketball hoop in inches?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-019",
+    "category": "Sports",
+    "text": "Who won the first F1 World Championship?",
+    "options": [
+      "Juan Manuel Fangio",
+      "Giuseppe Farina",
+      "Alberto Ascari",
+      "Stirling Moss"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sports-020",
+    "category": "Sports",
+    "text": "In which sport do you use a foil, epee, or sabre?",
+    "options": [
+      "Archery",
+      "Fencing",
+      "Polo",
+      "Javelin"
+    ],
+    "correctIndex": 1
+  }
+]

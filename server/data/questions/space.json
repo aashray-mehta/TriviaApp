@@ -1,0 +1,143 @@
+[
+    {
+      "id": "space-001",
+      "category": "The Solar System",
+      "text": "Which planet is known as the 'Red Planet'?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-002",
+      "category": "The Solar System",
+      "text": "What is the largest planet in our solar system?",
+      "options": ["Neptune", "Saturn", "Jupiter", "Uranus"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-003",
+      "category": "Space Exploration",
+      "text": "Who was the first human to travel into space?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-004",
+      "category": "Deep Space",
+      "text": "What type of galaxy is the Milky Way?",
+      "options": ["Elliptical", "Spiral", "Irregular", "Lenticular"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-005",
+      "category": "The Solar System",
+      "text": "Which planet has the most famous ring system?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-006",
+      "category": "The Solar System",
+      "text": "What is the hottest planet in our solar system?",
+      "options": ["Mercury", "Mars", "Venus", "Jupiter"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-007",
+      "category": "Deep Space",
+      "text": "What is the most common type of star found in the Milky Way?",
+      "options": ["Red Dwarf", "Blue Giant", "White Dwarf", "Yellow Dwarf"],
+      "correctIndex": 0
+    },
+    {
+      "id": "space-008",
+      "category": "Space Exploration",
+      "text": "In what year did the Apollo 11 mission land on the Moon?",
+      "options": ["1965", "1969", "1971", "1975"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-009",
+      "category": "The Solar System",
+      "text": "How many moons does Mars have?",
+      "options": ["1", "2", "12", "50"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-010",
+      "category": "Deep Space",
+      "text": "What is the name of the closest star to Earth, excluding the Sun?",
+      "options": ["Sirius", "Alpha Centauri", "Proxima Centauri", "Betelgeuse"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-011",
+      "category": "Deep Space",
+      "text": "A 'Light Year' is a measurement of what?",
+      "options": ["Time", "Brightness", "Distance", "Weight"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-012",
+      "category": "Space Exploration",
+      "text": "Which space agency launched the James Webb Space Telescope?",
+      "options": ["ESA", "Roscosmos", "JAXA", "NASA"],
+      "correctIndex": 3
+    },
+    {
+      "id": "space-013",
+      "category": "The Solar System",
+      "text": "Which planet rotates on its side?",
+      "options": ["Neptune", "Uranus", "Saturn", "Venus"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-014",
+      "category": "Deep Space",
+      "text": "What is the boundary around a black hole beyond which nothing can escape?",
+      "options": ["Singularity", "The Void", "Event Horizon", "Outer Rim"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-015",
+      "category": "The Solar System",
+      "text": "What is the Great Red Spot on Jupiter?",
+      "options": ["A volcano", "A lake of fire", "A persistent storm", "A massive crater"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-016",
+      "category": "Space Exploration",
+      "text": "What was the name of the first artificial satellite launched into space?",
+      "options": ["Explorer 1", "Sputnik 1", "Voyager 1", "Vanguard 1"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-017",
+      "category": "The Solar System",
+      "text": "Which moon is the largest in our solar system?",
+      "options": ["Titan", "The Moon", "Ganymede", "Europa"],
+      "correctIndex": 2
+    },
+    {
+      "id": "space-018",
+      "category": "Deep Space",
+      "text": "What is the primary element that makes up the Sun?",
+      "options": ["Helium", "Oxygen", "Carbon", "Hydrogen"],
+      "correctIndex": 3
+    },
+    {
+      "id": "space-019",
+      "category": "The Solar System",
+      "text": "Between which two planets is the Asteroid Belt located?",
+      "options": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Venus and Earth"],
+      "correctIndex": 1
+    },
+    {
+      "id": "space-020",
+      "category": "Deep Space",
+      "text": "What do we call a star that has exploded at the end of its life cycle?",
+      "options": ["Supernova", "Nebula", "Protostar", "Quasar"],
+      "correctIndex": 0
+    }
+  ]
+   

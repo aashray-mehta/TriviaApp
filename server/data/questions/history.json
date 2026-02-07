@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hist-001",
+    "category": "History",
+    "text": "In what year did World War II end?",
+    "options": ["1943", "1944", "1945", "1946"],
+    "correctIndex": 2
+  },
+  {
+    "id": "hist-002",
+    "category": "History",
+    "text": "Who was the first President of the United States?",
+    "options": ["John Adams", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+    "correctIndex": 2
+  },
+  {
+    "id": "hist-003",
+    "category": "History",
+    "text": "The Great Wall of China was primarily built to protect against invasions from which group?",
+    "options": ["Mongols", "Japanese", "Koreans", "Indians"],
+    "correctIndex": 0
+  },
+  {
+    "id": "hist-004",
+    "category": "History",
+    "text": "Which ancient civilization built the pyramids of Giza?",
+    "options": ["Roman", "Greek", "Egyptian", "Mesopotamian"],
+    "correctIndex": 2
+  },
+  {
+    "id": "hist-005",
+    "category": "History",
+    "text": "In what year did the Titanic sink?",
+    "options": ["1905", "1912", "1918", "1920"],
+    "correctIndex": 1
+  },
+  {
+    "id": "hist-006",
+    "category": "History",
+    "text": "Who wrote the Declaration of Independence?",
+    "options": ["George Washington", "Benjamin Franklin", "John Adams", "Thomas Jefferson"],
+    "correctIndex": 3
+  },
+  {
+    "id": "hist-007",
+    "category": "History",
+    "text": "The French Revolution began in which year?",
+    "options": ["1776", "1789", "1799", "1804"],
+    "correctIndex": 1
+  },
+  {
+    "id": "hist-008",
+    "category": "History",
+    "text": "Which empire was ruled by Genghis Khan?",
+    "options": ["Ottoman Empire", "Roman Empire", "Mongol Empire", "Persian Empire"],
+    "correctIndex": 2
+  }
+]

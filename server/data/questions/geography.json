@@ -1,0 +1,58 @@
+[
+  {
+    "id": "geo-001",
+    "category": "Geography",
+    "text": "What is the largest continent by area?",
+    "options": ["Africa", "North America", "Asia", "Europe"],
+    "correctIndex": 2
+  },
+  {
+    "id": "geo-002",
+    "category": "Geography",
+    "text": "Which country has the most natural lakes?",
+    "options": ["United States", "Canada", "Russia", "Brazil"],
+    "correctIndex": 1
+  },
+  {
+    "id": "geo-003",
+    "category": "Geography",
+    "text": "What is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correctIndex": 1
+  },
+  {
+    "id": "geo-004",
+    "category": "Geography",
+    "text": "Which desert is the largest in the world?",
+    "options": ["Gobi", "Kalahari", "Sahara", "Antarctic"],
+    "correctIndex": 3
+  },
+  {
+    "id": "geo-005",
+    "category": "Geography",
+    "text": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2
+  },
+  {
+    "id": "geo-006",
+    "category": "Geography",
+    "text": "Mount Everest is located on the border of which two countries?",
+    "options": ["India and China", "Nepal and China", "Nepal and India", "China and Pakistan"],
+    "correctIndex": 1
+  },
+  {
+    "id": "geo-007",
+    "category": "Geography",
+    "text": "Which ocean is the smallest?",
+    "options": ["Indian", "Atlantic", "Arctic", "Southern"],
+    "correctIndex": 2
+  },
+  {
+    "id": "geo-008",
+    "category": "Geography",
+    "text": "What country has the largest population?",
+    "options": ["United States", "India", "China", "Indonesia"],
+    "correctIndex": 1
+  }
+]

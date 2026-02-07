@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sci-001",
+    "category": "Science",
+    "text": "What is the chemical symbol for gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci-002",
+    "category": "Science",
+    "text": "What planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci-003",
+    "category": "Science",
+    "text": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci-004",
+    "category": "Science",
+    "text": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci-005",
+    "category": "Science",
+    "text": "What is the speed of light approximately in km/s?",
+    "options": ["150,000", "300,000", "450,000", "600,000"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci-006",
+    "category": "Science",
+    "text": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Lithium", "Carbon"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sci-007",
+    "category": "Science",
+    "text": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sci-008",
+    "category": "Science",
+    "text": "How many bones are in the adult human body?",
+    "options": ["196", "206", "216", "226"],
+    "correctIndex": 1
+  }
+]

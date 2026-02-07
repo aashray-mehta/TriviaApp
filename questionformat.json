@@ -1,0 +1,9 @@
+[
+    {
+      "id": "unique-prefix-001",
+      "category": "Your Category Name",
+      "text": "The question text?",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correctIndex": 0
+    }
+  ]
